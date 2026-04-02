@@ -6,7 +6,12 @@ body {
 }
 
 h1 {
-  color:darkgreen;
+  color:white;
+  display: inline-block;
+  padding: 0px;
+  background-color: darkgreen;
+  text-decoration: none;
+  margin-bottom: 10px;
 
 }
 
