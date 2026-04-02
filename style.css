@@ -35,10 +35,17 @@ a: hover{
 }
 
 header{
-  backgorun-color: green;
-  color: white;
-  padding: 15px;
+  backgorun-color: darkgreen;
+  color: green;
+  padding: 20px;
+  text-align: center;
 }
+
+  header{
+    position: sticky;
+    top: 0;
+}
+  
 nav a{
   color: white;
   margin: 10px;
