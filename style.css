@@ -65,3 +65,13 @@ a:hover {
 html {
   scroll-behavior: smooth;
 }
+
+.produto-detalhe{
+  padding: 40px;
+  text-aling: center;
+}
+
+.produto-detalhe img{
+  width: 300px;
+  border-radius: 10px;
+}
